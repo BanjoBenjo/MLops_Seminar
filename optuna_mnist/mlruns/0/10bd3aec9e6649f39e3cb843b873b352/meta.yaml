@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Benji/PycharmProjects/optuna_mnist/mlruns/0/10bd3aec9e6649f39e3cb843b873b352/artifacts
+end_time: 1635951807887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 10bd3aec9e6649f39e3cb843b873b352
+run_uuid: 10bd3aec9e6649f39e3cb843b873b352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1635951787962
+status: 3
+tags: []
+user_id: Benji

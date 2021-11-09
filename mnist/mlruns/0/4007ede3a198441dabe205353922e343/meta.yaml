@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Benji/Desktop/Master/MLSeminar/mnist/mlruns/0/4007ede3a198441dabe205353922e343/artifacts
+end_time: 1636479204244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4007ede3a198441dabe205353922e343
+run_uuid: 4007ede3a198441dabe205353922e343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636479182475
+status: 3
+tags: []
+user_id: Benji
